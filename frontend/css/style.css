@@ -2597,7 +2597,7 @@ ul {
 /* line 72, ../../01 cl html template/03_jun 2019/182_medico_html/sass/_banner.scss */
 .banner_part .banner_text h1 {
   font-size: 60px;
-  text-transform: capitalize;
+  /*text-transform: capitalize;*/
   font-weight: 700;
   margin-bottom: 12px;
   line-height: 1.2;
